@@ -37,6 +37,8 @@ Power Query	Data cleaning, transformation and preparation
 DAX	Measures, calculated metrics and analytical calculations
 Data Modeling	Structuring data for efficient analysis
 Kaggle	Source of the raw dataset
+
+
 🔄 Data Analytics Workflow
 
 The project followed a structured analytics workflow:
