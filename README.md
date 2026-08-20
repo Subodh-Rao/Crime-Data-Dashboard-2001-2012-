@@ -1,4 +1,6 @@
 Crime Data Analysis & Interactive Dashboard | Power BI
+
+
 📌 Project Overview
 This project focuses on analyzing crime data from 2001 to 2012 using Microsoft Power BI. The objective was to transform a large and detailed crime dataset into an interactive analytical dashboard that helps identify crime trends, patterns, distributions, and variations across different years, crime categories, and locations.
 The project demonstrates an end-to-end data analytics workflow — from raw dataset preparation and data cleaning to data modeling, DAX calculations, visualization, and insight generation.
